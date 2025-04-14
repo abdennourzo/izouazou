@@ -7,6 +7,6 @@ I'm Abdennour ZOUAZOU, a Python developer and data scientist ready to tackle you
 
 **🔧 Tech Toolbox**: Python, SQL, JavaScript, data viz, Git, GitHub, Docker, AWS. 
 
-**🌐 Let's Connect**: Feel free to drop by my **[LinkedIn](https://www.linkedin.com/in/zouazou)** 
+**🌐 Let's Connect**: Feel free to drop by my **[LinkedIn](https://www.linkedin.com/in/abdennourzo)** 
 
 Got an idea or question? Let's code and analyze together!
